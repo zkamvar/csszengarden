@@ -31,6 +31,13 @@ h3 {
 	margin-bottom: 0; 
 	color: #7D775C;
 	}
+h3:before {
+  font: calc(1.4em * 1.6) georgia, sans-serif;
+  align-top: auto;
+  align-bottom: auto;
+  content: '\2693 ';
+  color: #ccc;
+  }
 a:link { 
 	font-weight: bold; 
 	text-decoration: none; 
