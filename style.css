@@ -33,8 +33,6 @@ h3 {
 	}
 h3:before {
   font: calc(1.4em * 1.6) georgia, sans-serif;
-  align-top: auto;
-  align-bottom: auto;
   content: '\2693 ';
   color: #ccc;
   }
